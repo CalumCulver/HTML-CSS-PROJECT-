@@ -1,0 +1,124 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+/* HOLDER FOR CONTAINERS
+{font-size:0} used to get rid of white space between containers
+ */
+
+.holder {
+    width: 100%;
+    height: 100%;
+    font-size: 0;
+}
+
+/* STYLING 1ST CONTAINER */
+
+.container1 {
+  width: 100%;
+  height: 120%;
+}
+
+.leftBox {
+    width: 100%;
+    height: 30%;
+    background-color: red;
+    position: relative;
+    display: inline-block;
+}
+
+.rightBox {
+    width: 100%;
+    height: 70%;
+    background-color: lightcoral;
+    position: relative;
+    display: inline-block;
+}
+
+/* STYLING 2ND CONTAINER */
+
+.container2 {
+  width: 100%;
+  height: 120%;
+  display: inline-block;
+}
+
+.leftBox2 {
+    width: 40%;
+    height: 120%;
+    background-color: orange;
+    position: relative;
+    display: inline-block;
+}
+
+.rightBox2 {
+    width: 60%;
+    height: 120%;
+    background-color: green;
+    position: relative;
+    display: inline-block;
+}
+
+/* STYLING 3RD CONTAINER */
+
+.container3 {
+  width: 100%;
+  height: 68.5%;
+  background-color: yellow;
+  display: inline-block;
+}
+
+/* STYLING 4TH CONTAINER */
+
+.container4 {
+  width: 100%;
+  height: 120%;
+  display: inline-block;
+}
+
+.leftBox4 {
+    width: 40%;
+    height: 120%;
+    background-color: purple;
+    position: relative;
+    display: inline-block;
+}
+
+.rightBox4 {
+    width: 60%;
+    height: 120%;
+    background-color: blue;
+    position: relative;
+    display: inline-block;
+}
+
+/* STYLING 5TH CONTAINER */
+
+.container5 {
+  width: 100%;
+  height: 80%;
+  background-color: pink;
+  display: inline-block;
+}
+
+/* STYLING 6TH CONTAINER */
+
+.container6 {
+  width: 100%;
+  height: 80%;
+  background-color: grey;
+  display: inline-block;
+}
+
+
+/* STYLING 7TH CONTAINER */
+
+.container7 {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  display: inline-block;
+}
+
+
