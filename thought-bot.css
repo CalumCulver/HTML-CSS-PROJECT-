@@ -47,9 +47,13 @@ html, body {
 .leftBox2 {
     width: 40%;
     height: 120%;
-    background-color: orange;
     position: relative;
     display: inline-block;
+}
+
+.leftBox2 img {
+    width: 100%;
+    height: 100%;
 }
 
 .rightBox2 {
